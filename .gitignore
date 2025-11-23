@@ -1,0 +1,25 @@
+# MRI-DENOISE PROJECT .GITIGNORE
+
+# === DATA (ignore all data files, keep only folders) ===
+data/**
+!data/raw/
+!data/processed/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# === RESULTS (keep everything) ===
+!results/**
+
+# === EXPERIMENTS (keep everything) ===
+!experiments/**
+
+# === MATLAB TEMP / SYSTEM FILES ===
+*.asv
+*.m~
+*.mlx.autosave
+*.mat
+.DS_Store
+
+# === REPORTS / EXPORTS ===
+*.pdf
+*.docx
