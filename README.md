@@ -46,7 +46,7 @@ mri-denoise/
 
 ## Getting Started
 
-1\. Place BrainWeb `.mnc` files in `data/raw/`
+1\. Place BrainWeb `.nii` files in `data/raw/`
 
 2\. Run `MRI\_Denoising\_Pipeline.mlx` in MATLAB
 
