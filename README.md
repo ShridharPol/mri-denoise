@@ -1,4 +1,4 @@
-\# MRI Denoising (BrainWeb, MATLAB)
+# MRI Denoising (BrainWeb, MATLAB)
 
 
 
@@ -6,19 +6,19 @@ This repository contains a MATLAB pipeline for MRI image denoising using the Bra
 
 
 
-\## Overview
+## Overview
 
 The goal of this project is to compare classical spatial-domain filters (Gaussian, Median, Wiener, Non-Local Means) with frequency-domain filters (Ideal, Butterworth, Gaussian Low-Pass) on T1-weighted brain MRI images at different noise levels (0–9%).
 
 
 
-\## Folder Structure
+## Folder Structure
 
 mri-denoise/
 
 │
 
-├── data/ # Contains raw (.mnc) and processed MRI data
+├── data/ # Contains raw (.nii) and processed MRI data
 
 │ ├── raw/ # Original BrainWeb volumes
 
@@ -44,7 +44,7 @@ mri-denoise/
 
 
 
-\## Getting Started
+## Getting Started
 
 1\. Place BrainWeb `.mnc` files in `data/raw/`
 
@@ -54,7 +54,7 @@ mri-denoise/
 
 
 
-\## References
+## References
 
 BrainWeb: Cocosco et al., \*HBM\*, 1997  
 
