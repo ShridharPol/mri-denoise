@@ -56,11 +56,11 @@ mri-denoise/
 
 ## References
 
-BrainWeb: Cocosco et al., \*HBM\*, 1997  
+BrainWeb: Cocosco et al., *HBM*, 1997  
 
-Collins et al., \*IEEE TMI\*, 1998  
+Collins et al., *IEEE TMI*, 1998  
 
-Kwan et al., \*IEEE TMI\*, 1999
+Kwan et al., *IEEE TMI*, 1999
 
 
 
