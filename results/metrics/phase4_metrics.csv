@@ -1,0 +1,13 @@
+NoiseFile,Filter,PSNR,SSIM
+t1_icbm_normal_1mm_pn3_rf0.nii,Ideal LPF,20.7176617820339,0.670742887245608
+t1_icbm_normal_1mm_pn3_rf0.nii,Butterworth LPF,24.0702917373595,0.778511065306366
+t1_icbm_normal_1mm_pn3_rf0.nii,Gaussian LPF,26.2539633494304,0.858268413786366
+t1_icbm_normal_1mm_pn3_rf0.nii,Wiener Filter,33.1973776786889,0.836031107399197
+t1_icbm_normal_1mm_pn5_rf0.nii,Ideal LPF,17.2544643421515,0.581153009949544
+t1_icbm_normal_1mm_pn5_rf0.nii,Butterworth LPF,22.1792980698227,0.728701847881724
+t1_icbm_normal_1mm_pn5_rf0.nii,Gaussian LPF,24.7535066903888,0.809812521187604
+t1_icbm_normal_1mm_pn5_rf0.nii,Wiener Filter,29.9141676811057,0.737386242719479
+t1_icbm_normal_1mm_pn9_rf0.nii,Ideal LPF,17.252501815324,0.511935185450325
+t1_icbm_normal_1mm_pn9_rf0.nii,Butterworth LPF,20.4173651540504,0.658811526768421
+t1_icbm_normal_1mm_pn9_rf0.nii,Gaussian LPF,22.0287970188455,0.72028795928255
+t1_icbm_normal_1mm_pn9_rf0.nii,Wiener Filter,24.2732041106306,0.596119262861825

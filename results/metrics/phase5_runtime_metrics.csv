@@ -1,0 +1,31 @@
+NoiseFile,Filter,Runtime_ms
+t1_icbm_normal_1mm_pn3_rf0.nii,Gaussian (Spatial),25.584
+t1_icbm_normal_1mm_pn3_rf0.nii,Median,27.499
+t1_icbm_normal_1mm_pn3_rf0.nii,Wiener (Spatial),5.928
+t1_icbm_normal_1mm_pn3_rf0.nii,NLM,92.384
+t1_icbm_normal_1mm_pn3_rf0.nii,Adaptive Hybrid,27.518
+t1_icbm_normal_1mm_pn3_rf0.nii,Bilateral Hybrid,280.57
+t1_icbm_normal_1mm_pn3_rf0.nii,Ideal LPF,7.223
+t1_icbm_normal_1mm_pn3_rf0.nii,Butterworth LPF,11.26
+t1_icbm_normal_1mm_pn3_rf0.nii,Gaussian LPF,7.156
+t1_icbm_normal_1mm_pn3_rf0.nii,Wiener (Freq),3.973
+t1_icbm_normal_1mm_pn5_rf0.nii,Gaussian (Spatial),1.205
+t1_icbm_normal_1mm_pn5_rf0.nii,Median,15.09
+t1_icbm_normal_1mm_pn5_rf0.nii,Wiener (Spatial),2.169
+t1_icbm_normal_1mm_pn5_rf0.nii,NLM,85.648
+t1_icbm_normal_1mm_pn5_rf0.nii,Adaptive Hybrid,15.331
+t1_icbm_normal_1mm_pn5_rf0.nii,Bilateral Hybrid,234.65
+t1_icbm_normal_1mm_pn5_rf0.nii,Ideal LPF,2.842
+t1_icbm_normal_1mm_pn5_rf0.nii,Butterworth LPF,8.086
+t1_icbm_normal_1mm_pn5_rf0.nii,Gaussian LPF,4.333
+t1_icbm_normal_1mm_pn5_rf0.nii,Wiener (Freq),2.14
+t1_icbm_normal_1mm_pn9_rf0.nii,Gaussian (Spatial),0.905
+t1_icbm_normal_1mm_pn9_rf0.nii,Median,16.318
+t1_icbm_normal_1mm_pn9_rf0.nii,Wiener (Spatial),1.449
+t1_icbm_normal_1mm_pn9_rf0.nii,NLM,70.312
+t1_icbm_normal_1mm_pn9_rf0.nii,Adaptive Hybrid,10.714
+t1_icbm_normal_1mm_pn9_rf0.nii,Bilateral Hybrid,237.659
+t1_icbm_normal_1mm_pn9_rf0.nii,Ideal LPF,3.841
+t1_icbm_normal_1mm_pn9_rf0.nii,Butterworth LPF,7.571
+t1_icbm_normal_1mm_pn9_rf0.nii,Gaussian LPF,6.795
+t1_icbm_normal_1mm_pn9_rf0.nii,Wiener (Freq),3.844
